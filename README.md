@@ -17,6 +17,6 @@ The program treats each row as an object such that the first 3 integers are the 
 A single makefile is provided, which can be run using "make" or "make all", producing executables for preorder, inorder, postorder, calculate, and heap in ./bin/ folder.
 Compilation uses: clang -std=c99 -Wall -pedantic
 
-This project was in VSCode SOCS and uploaded to GitHub.
+This project was completed in VSCode SOCS and uploaded to GitHub.
 - December 11th, 2025
 - Evan Leonard
